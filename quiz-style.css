@@ -1,0 +1,24 @@
+.quizOnTriangle-container {
+  text-align: center;
+}
+
+h3 {
+  font-size: 30px;
+  padding: 15px 15px 15px 15px;
+}
+
+.question-container {
+  font-size: 30px;
+  padding: 15px 15px 15px 15px;
+}
+
+#output {
+  text-decoration: underline;
+  border-radius: 30px;
+  background-color: #2196f3;
+  width: 96%;
+  padding: 15px 15px 15px 15px;
+  margin: 30px 15px 30px 15px;
+  border: 1px solid black;
+  font-size: 30px;
+}

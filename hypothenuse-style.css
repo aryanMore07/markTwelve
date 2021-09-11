@@ -1,0 +1,35 @@
+.hypothenuse-container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+  padding: 14px 15px 15px 15px;
+  font: bold;
+  font-size: 25px;
+}
+
+button {
+  margin: auto;
+  width: 15%;
+}
+
+body div h3 {
+  padding: 15px 15px 15px 15px;
+}
+
+body div h2 {
+  padding: 25px 15px 15px 15px;
+}
+
+#output {
+  text-decoration: underline;
+  border-radius: 30px;
+  background-color: #2196f3;
+  width: 96%;
+  padding: 15px 15px 15px 15px;
+  margin: 30px 15px 30px 15px;
+  border: 1px solid black;
+  font-size: 30px;
+}

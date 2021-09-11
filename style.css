@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #00a3ffa6;
+}
+
+header {
+  border-radius: 15px;
+  background-color: #2196f3;
+  border: 1px solid black;
+  margin: 15px 0px 15px 25px;
+  padding: 15px 15px 15px 15px;
+  width: 95%;
+}
+
+header h1 {
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.p-tag {
+  font-size: 25px;
+}
+
+.isTriangle-nav {
+  text-align: end;
+  font-size: 20px;
+}
+
+.quizOnTriangle-nav {
+  text-align: end;
+  padding: 10px 40px 0px 15px;
+  font-size: 20px;
+}
+
+.hypothenuse-nav {
+  text-align: end;
+  padding: 10px 40px 0px 15px;
+  font-size: 20px;
+}
+
+.areaOfTriangle-nav {
+  text-align: end;
+  padding: 10px 40px 0px 15px;
+  font-size: 20px;
+}
+
+.isTriangle-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+  padding: 0rem 20px 0rem 15px;
+  margin: 15px 15px 1rem 15px;
+}
+
+label {
+  padding: 20px 15px 20px 15px;
+}
+
+.input-text {
+  border-radius: 15px;
+  font-size: large;
+  margin: auto;
+  width: 20%;
+  padding: 10px 15px 15px 15px;
+}
+
+body div h1 {
+  padding: 15px 15px 15px 15px;
+}
+
+button {
+  border-radius: 15px;
+  margin: 30px 20px 15px 15px;
+  padding: 15px 15px 15px 15px;
+}
+
+footer {
+  border-radius: 15px;
+  background-color: #2196f3;
+  margin: auto;
+  width: 95%;
+  text-align: center;
+  font-size: 30px;
+}
+
+ul {
+  list-style-type: none;
+  display: inline-block;
+}
+
+.fab {
+  color: black;
+  font-size: 30px;
+}
+
+.fas {
+  color: black;
+  font-size: 30px;
+}
+
+footer ul li {
+  display: inline;
+  float: left;
+  padding: 15px 15px 15px 14px;
+}
+
+.output-div {
+  font-size: 30px;
+}
+
+#output {
+  text-align: center;
+  text-decoration: underline;
+  border-radius: 30px;
+  background-color: #2196f3;
+  width: 96%;
+  padding: 15px 15px 15px 15px;
+  margin: 30px 15px 30px 15px;
+  border: 1px solid black;
+  font-size: 30px;
+}
